@@ -9,6 +9,11 @@
             "UnauthRoleName": "test-aws-amplify-test-20191025135227-unauthRole",
             "StackName": "test-aws-amplify-test-20191025135227",
             "StackId": "arn:aws:cloudformation:ap-northeast-2:221262875767:stack/test-aws-amplify-test-20191025135227/3e4921a0-f6e3-11e9-b511-061f2b82ef26"
+        },
+        "categories": {
+            "auth": {
+                "testawsamplify6bf9dd20": {}
+            }
         }
     }
 }
