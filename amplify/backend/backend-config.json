@@ -12,12 +12,7 @@
 			"dependsOn": []
 		}
 	},
-	"analytics": {
-		"test-aws-amplify": {
-			"service": "Pinpoint",
-			"providerPlugin": "awscloudformation"
-		}
-	},
+	"analytics": {},
 	"storage": {
 		"s3349f4365": {
 			"service": "S3",
